@@ -1,0 +1,38 @@
+Training with lambda=1e-05
+Epoch 1 Loss: 196.3071
+Epoch 2 Loss: 77.2532
+Epoch 3 Loss: 52.6993
+Epoch 4 Loss: 39.5065
+Epoch 5 Loss: 30.2265
+Epoch 6 Loss: 23.6282
+Epoch 7 Loss: 19.2970
+Epoch 8 Loss: 15.5708
+Epoch 9 Loss: 12.3474
+Epoch 10 Loss: 10.4696
+Lambda 1e-05 | Accuracy 97.82% | Sparsity 3.55%
+
+Training with lambda=0.0001
+Epoch 1 Loss: 208.7418
+Epoch 2 Loss: 90.5888
+Epoch 3 Loss: 65.7791
+Epoch 4 Loss: 52.2008
+Epoch 5 Loss: 42.4003
+Epoch 6 Loss: 36.5994
+Epoch 7 Loss: 31.1514
+Epoch 8 Loss: 27.9869
+Epoch 9 Loss: 26.0547
+Epoch 10 Loss: 22.5559
+Lambda 0.0001 | Accuracy 97.97% | Sparsity 5.84%
+
+Training with lambda=0.001
+Epoch 1 Loss: 329.9311
+Epoch 2 Loss: 207.8346
+Epoch 3 Loss: 177.7037
+Epoch 4 Loss: 158.1389
+Epoch 5 Loss: 144.2050
+Epoch 6 Loss: 131.0705
+Epoch 7 Loss: 120.9224
+Epoch 8 Loss: 111.1497
+Epoch 9 Loss: 103.1631
+Epoch 10 Loss: 95.7891
+Lambda 0.001 | Accuracy 97.86% | Sparsity 5.58%
