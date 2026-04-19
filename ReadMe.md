@@ -170,9 +170,7 @@ Gate Value Distribution Histogram
 
 ---
 
-# 👩‍💻 Author
 
-**Shukri**
 AI Engineer | Machine Learning | Deep Learning
 
 ---
